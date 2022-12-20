@@ -1,0 +1,22 @@
+body{
+	background-image: imagen/fondo.jpg;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	}
+
+
+h2{
+
+	color: blue;
+	font-size:xx-large;
+}
+.caption tr,td{
+	width: 200px;
+	background-color: green;
+	padding: 15px;
+	border-radius: 5px;
+	margin: 15px;
+	border: 3px solid blue;
+
+}

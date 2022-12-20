@@ -1,0 +1,30 @@
+body{
+	background-image: imagen/tecno2.jfif;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	}
+	
+	 h2{
+	color: red;
+	font-size:xx-large;
+}
+p{
+	color: red;
+	font-size:medium;
+}
+.menu ul,li{
+	list-style:nule;
+	padding: 10px;
+	display: inline-block;
+	background-color: blanchedalmond;
+	}
+.menu ul,li,a{
+	color: black;
+	text-decoration: none;
+	}
+	.menu ul,li:hover {
+	background-color: chocolate;
+}
+
+

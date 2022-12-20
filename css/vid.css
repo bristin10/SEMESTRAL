@@ -1,0 +1,24 @@
+body{
+	background-image: imagen/tecno.jpg;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+h2{
+
+	color: red;
+	font-size:xx-large;
+}
+.menu ul,li{
+	list-style:nule;
+	padding: 10px;
+	display: inline-block;
+	background-color:grey;
+	}
+.menu ul,li,a{
+	color: blue;
+	text-decoration: none;
+	}
+	.menu ul,li:hover {
+	background-color: transparent;
+}

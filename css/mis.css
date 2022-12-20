@@ -1,0 +1,28 @@
+body{
+	background-image: imagen/motor.jpg;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+h2{
+
+	color: royalblue;
+	font-size:xx-large;
+}
+p{
+	color: blue;
+	font-size:xx-large;
+}
+.menu ul,li{
+	list-style:nule;
+	padding: 10px;
+	display: inline-block;
+	background-color:chocolate;
+	}
+.menu ul,li,a{
+	color: orange;
+	text-decoration: none;
+	}
+	.menu ul,li:hover {
+	background-color: whitesmoke;
+}
